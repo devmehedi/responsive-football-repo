@@ -103,7 +103,7 @@ p{
 .banner-image:hover {
     transform: scale(1.2);
     transition: transform 2s ease-in-out;
-    
+    cursor: pointer;
 }
 .fa-chevron-right{
     margin-left: 10px;
